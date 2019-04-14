@@ -4,6 +4,7 @@ Evaluation and visualization of the salary structure of an enterprise.
 
 Data provided as CSV-files. Fetching and preparing of the data done with PHP. Presentation done with JavaScript, HTML and CSS.
 
+
 <div>
   &nbsp;&nbsp;
 <img src="./imgs/overview.png" alt="overview" width="400" />
