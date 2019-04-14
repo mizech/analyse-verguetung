@@ -14,4 +14,8 @@ Web Server with enabled PHP 5 module.
 
 - [Chart.js 2.5](https://www.chartjs.org/)
 
+![overview](./imgs/overview.png)
+
+![detail](./imgs/detail.png)
+
 
