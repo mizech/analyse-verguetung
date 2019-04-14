@@ -19,12 +19,6 @@ Web Server with enabled PHP 5 module.
 
 - [Chart.js 2.5](https://www.chartjs.org/)
 
-
-![overview](./imgs/overview.png)
-
-
-![detail](./imgs/detail.png)
-
 ## Links
 
 - [Read CSV from a file line by line](https://www.php.net/manual/de/function.fgetcsv.php)
