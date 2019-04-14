@@ -29,6 +29,6 @@ Web Server with enabled PHP 5 module.
 
 - [How to pass PHP-data to JavaScript](https://www.dyn-web.com/tutorials/php-js/scalar.php)
 
-
+- [Enable PHP on macOS Mojave](https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-mojave/)
 
 
