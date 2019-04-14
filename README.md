@@ -6,9 +6,8 @@ Data provided as CSV-files. Fetching and preparing of the data done with PHP. Pr
 
 
 <div>
-  &nbsp;&nbsp;
 <img src="./imgs/overview.png" alt="overview" width="450" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 <img src="./imgs/detail.png" alt="detail" width="450" />
 </div>
 
