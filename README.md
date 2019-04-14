@@ -26,7 +26,7 @@ Web Server with enabled PHP 5 module.
 
 - [Transfer a PHP-array to JSON](https://www.php.net/manual/en/function.json-encode.php)
 
-- [https://www.dyn-web.com/tutorials/php-js/scalar.php](https://www.dyn-web.com/tutorials/php-js/scalar.php)
+- [How to pass PHP-data to JavaScript](https://www.dyn-web.com/tutorials/php-js/scalar.php)
 
 
 
